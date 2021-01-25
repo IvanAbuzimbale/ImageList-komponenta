@@ -1,0 +1,10 @@
+C:\Users\ivanm\source\repos\ImageList komponenta\ImageList komponenta\obj\Debug\ImageList komponenta.csprojAssemblyReference.cache
+C:\Users\ivanm\source\repos\ImageList komponenta\ImageList komponenta\obj\Debug\ImageList_komponenta.Form1.resources
+C:\Users\ivanm\source\repos\ImageList komponenta\ImageList komponenta\obj\Debug\ImageList_komponenta.Properties.Resources.resources
+C:\Users\ivanm\source\repos\ImageList komponenta\ImageList komponenta\obj\Debug\ImageList komponenta.csproj.GenerateResource.cache
+C:\Users\ivanm\source\repos\ImageList komponenta\ImageList komponenta\obj\Debug\ImageList komponenta.csproj.CoreCompileInputs.cache
+C:\Users\ivanm\source\repos\ImageList komponenta\ImageList komponenta\bin\Debug\ImageList komponenta.exe.config
+C:\Users\ivanm\source\repos\ImageList komponenta\ImageList komponenta\bin\Debug\ImageList komponenta.exe
+C:\Users\ivanm\source\repos\ImageList komponenta\ImageList komponenta\bin\Debug\ImageList komponenta.pdb
+C:\Users\ivanm\source\repos\ImageList komponenta\ImageList komponenta\obj\Debug\ImageList komponenta.exe
+C:\Users\ivanm\source\repos\ImageList komponenta\ImageList komponenta\obj\Debug\ImageList komponenta.pdb
